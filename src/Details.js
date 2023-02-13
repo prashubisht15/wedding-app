@@ -8,6 +8,7 @@ import image2 from "./Image resources/Astro.jpg";
 import "./details.css";
 import Footer from "./components/feature components/Footer";
 import { useNavigate } from "react-router-dom";
+
 const Details = () => {
   const navigate = useNavigate()
   const handleClick = () => {
