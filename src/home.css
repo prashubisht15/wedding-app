@@ -1,0 +1,15 @@
+.background{
+    position:relative;
+    background: url("./Image\ resources/banner.png") no-repeat;
+    width: 100vw;
+    height: 600px;
+    background-size:cover;
+}
+
+.banner-text{
+    position: absolute;
+    width: 400px;
+    color: rgb(255, 255, 255);
+    bottom: 70px;
+    left: 200px;
+}

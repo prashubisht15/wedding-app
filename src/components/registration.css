@@ -1,0 +1,82 @@
+.registration{
+    position: absolute;
+    background: bisque;;
+    border-radius: 10px;
+    width: 380px;
+    padding:15px ;
+    right:100px;
+    top:25px;
+    line-height: 25px;
+    overflow: auto;
+}
+.text1{
+    font-size: medium;
+    font-weight:500;
+}
+.text2{
+    font-size: medium;
+    margin-bottom: 10px;
+}
+label{
+    font-size: small;
+}
+.inputs{
+    float: right;
+    border: 1px solid rgb(163, 126, 62);
+    height: 23px;
+    border-radius: 5px;
+    background-color: bisque;
+    padding-left: 5px;
+}
+.inputs:focus{
+    border: none;
+    outline: none;
+    background-color: aliceblue;
+    border: 1px solid rgb(138, 96, 23);
+    padding-left: 5px;
+}
+.gender{
+    width: 170px;
+}
+#accept{
+    float:left;
+    background-color: aliceblue;
+
+}
+.click{
+    font-size:small;
+    font-weight: 400;
+}
+#register-btn{
+    border: none;
+    border-radius: 2px;
+    color: azure;
+    height: 35px;
+    width: 100px;
+    background-color:rgb(152, 114, 47);
+    margin-left: 120px;
+}
+.dob-container{
+    margin-left:105px;
+}
+.birthdate{
+    width:53px;
+    height: 20px;
+    margin-right:2px ;
+    border: 1px solid rgb(163, 126, 62);
+    border-radius: 5px;
+    background: bisque;
+    text-align: center;
+}
+.birtdate:focus{
+    border: none;
+    outline: none;
+    background-color: aliceblue;
+    border: 1px solid rgb(138, 96, 23);
+    width: 10px;
+}
+
+::-webkit-inner-spin-button {  
+    width: 5px;
+    height: 20px;
+}

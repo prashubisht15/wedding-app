@@ -1,0 +1,50 @@
+.details{
+    background: rgb(237, 231, 224);
+    border-radius: 5px ;
+    margin: 10px auto;
+    margin-bottom: 0;
+    width: 1000px;
+    height: 750px;
+    padding: 20px 25px;
+}
+.details-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 550px;
+}
+.info-text{
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 15px;
+}
+.btn-css{
+    border:none;
+    background: none;
+    text-decoration:underline;
+    margin-bottom: 15px;
+    margin-right: 35px;
+}
+.line{
+    margin: 15px 0;
+}
+.info-header{
+    margin: 15px 0;
+    text-align: center;
+}
+.two-images{
+    margin-left:90px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.home-btn{
+    margin-left: 220px;
+    background-color:rgb(152, 118, 5);
+    border: none;
+    border-radius: 2px;
+    padding:8px;
+    color: aliceblue;
+}
